@@ -23,7 +23,7 @@ def print_banner():
 """)
 
 def print_version():
-  return "Version 1.0.0"
+  return "Version 0.1.0"
   
 def clear():
   os.system('cls' if os.name == 'nt' else 'clear')
