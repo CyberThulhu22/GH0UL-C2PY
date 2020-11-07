@@ -1,0 +1,33 @@
+GHOUL MAIN { Version | Build }
+	\_Ghouls (AGENTS)
+		\_interact
+		\_list : Lists currently active ghouls 
+
+	\_listeners
+		\_back
+		\_delete
+		\_info
+		\_interact
+		\_list
+		\_main
+		\_start
+		\_stop
+		\_use
+			\_http
+			\_https
+			\_http2
+			\_h2c
+			\_http3
+		\_*
+	\_interact
+	\_remove
+	\_sessions
+	\_use
+		\_modules
+			\_Lin/x64/PreventShellHistory
+			\_Lin/x64/libprocesshider
+			\_Lin/x64/CrontabPersist
+****\_version
+****\_Banner
+****\_exit / quit
+****\_*
